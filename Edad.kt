@@ -1,3 +1,8 @@
+fun verificarEdad(){
+    println("Ingresa edad y presiona enter (escribe solo el número)")
+}
+
+
 fun gradoEscolar(){
    print("Ingresa edad")
    
